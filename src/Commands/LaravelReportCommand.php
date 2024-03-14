@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace TengSambo\LaravelReport\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelReportCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-report';
 
     public $description = 'My command';
 
